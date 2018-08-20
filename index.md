@@ -1,6 +1,8 @@
 ---
-layout: home
-title: ICBR Bioinformats Core
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-This website provides access to software developed by the ICBR Bioinformatics core.
+layout: home
+---
+Test index file.
+
