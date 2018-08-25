@@ -5,5 +5,6 @@
 title: Home
 layout: default
 ---
-Test index file.
 
+# Introduction
+This page lists free software developed by the Bioinformatics Core of the [Interdisciplinary Center for Biotechnology Research](http://biotech.ufl.edu) at the [University of Florida](http://ufl.edu).
