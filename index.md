@@ -6,7 +6,7 @@ title: Home
 layout: default
 ---
 
-This page lists free software packages developed by the **Bioinformatics Core** of the [Interdisciplinary Center for Biotechnology Research](http://biotech.ufl.edu) at the [University of Florida](http://ufl.edu).  Software listed here is provided free of charge for academic and research use under the MIT license (see LICENSE file in the individual repositories). 
+This page lists free software packages developed by the **Bioinformatics Core** of the [Interdisciplinary Center for Biotechnology Research](http://biotech.ufl.edu) at the [University of Florida](http://ufl.edu).  Software listed here is provided free of charge for academic and research use under the MIT license (see LICENSE file in the individual repositories). ![BI-logo](https://github.com/uf-icbr-bioinformatics/uf-icbr-bioinformatics.github.io/blob/master/img/BI-logo-small.png "UF ICBR BI logo")
 
 All code available throught this page is © University of Florida Research Foundation.
 
