@@ -11,5 +11,5 @@ This page lists free software packages developed by the **Bioinformatics Core** 
 All code available throught this page is © University of Florida Research Foundation.
 
 ---
-## Bioscripts
-Bioscripts is a collection of command-line tools for various bioinformatics tasks. They are primarily oriented towards the analysis of NGS data. This package is available through the [bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts) repository.
+## Csvutils
+A collection of utilities for working with delimited files. Includes a program to automatically convert several delimited files into a single Excel file, and an interactive full-screen viewer for delimited files. This package is available through the [csvutils](https://github.com/uf-icbr-bioinformatics/csvutils) repository
