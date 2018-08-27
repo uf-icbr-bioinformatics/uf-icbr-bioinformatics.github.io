@@ -17,3 +17,7 @@ All code available throught this page is © University of Florida Research Found
 ---
 ## Csvutils
 A collection of utilities for working with delimited files. Includes a program to automatically convert several delimited files into a single Excel file, and an interactive full-screen viewer for delimited files. This package is available through the [csvutils](https://github.com/uf-icbr-bioinformatics/csvutils) repository
+
+---
+## Bioscripts
+This repository contains a collection of stand-alone scripts for various tasks in bioinformatics. They were developed independently for use in various data analysis pipelines. This package is available through the [bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts) repository.
