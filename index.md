@@ -8,6 +8,10 @@ layout: default
 
 <img style="float: right" src="img/BI-logo-small.png" width="100px"> This page lists free software packages developed by the **Bioinformatics Core** of the [Interdisciplinary Center for Biotechnology Research](http://biotech.ufl.edu) at the [University of Florida](http://ufl.edu).  Software listed here is provided free of charge for academic and research use under the MIT license (see LICENSE file in the individual repositories). 
 
+The ICBR Bioinformatics Core provides data analysis and software development services for the genomics research community, with a focus on the analysis and interpretation of Next-Gen Sequencing data. For more information about the Bioinformatics core's services please contact [ICBR-Bioinformatics@ad.ufl.edu](mailto:ICBR-Bioinformatics@ad.ufl.edu).
+
+For information about the packages linked from this page please contact [Alberto Riva](mailto:ariva@ufl.edu). 
+
 All code available throught this page is © University of Florida Research Foundation.
 
 ---
