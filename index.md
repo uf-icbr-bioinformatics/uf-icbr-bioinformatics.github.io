@@ -27,4 +27,4 @@ A collection of utilities for working with delimited files. Includes a program t
 This repository contains a collection of stand-alone scripts for various tasks in bioinformatics. They were developed independently for use in various data analysis pipelines. This package is available through the [bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts) repository.
 
 ## SOI
-SOI (significance of intersections) is a command-line program to quickly evaluate whether the intersections among sets (up to four) are significantly high or low. This program is available through the [soi](https://github.com/uf-icbr-bioinformatics/soi) repository.
+SOI (Significance Of Intersections) is a command-line program to quickly evaluate whether the intersections among sets (up to four) are significantly high or low. This program is available through the [soi](https://github.com/uf-icbr-bioinformatics/soi) repository.
