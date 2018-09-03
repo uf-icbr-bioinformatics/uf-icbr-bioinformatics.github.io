@@ -28,3 +28,9 @@ This repository contains a collection of stand-alone scripts for various tasks i
 
 ## SOI
 SOI (Significance Of Intersections) is a command-line program to quickly evaluate whether the intersections among sets (up to four) are significantly high or low. This program is available through the [soi](https://github.com/uf-icbr-bioinformatics/soi) repository.
+
+# Applications
+The following programs are distributed in compiled form only (for GNU/Linux systems). Source code is available upon request.
+
+## [CSCALL](http://compbio.ufl.edu/resources/software/cscall/)
+CSCALL is a program to detect single-base conversion events in short reads. It is specifically designed to analyze the results of sodium bisulfite sequencing experiments to study genome-wide methylation, and is optimized to work on large genomes and multiple BAM files at once. Moreover, CSCALL can be used to detect conversion events on a number of different contexts (e.g. CG, GC, CHG, CHH, etc). CSCALL is available from [this page](http://compbio.ufl.edu/resources/software/cscall/).
