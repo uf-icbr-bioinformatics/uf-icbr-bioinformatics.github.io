@@ -19,18 +19,18 @@ All code available throught this page is © University of Florida Research Found
 # Downloadable software
 The following packages are hosted on GitHub.
 
-## Csvutils
+## [Csvutils](https://github.com/uf-icbr-bioinformatics/csvutils)
 A collection of utilities for working with delimited files. Includes a program to automatically convert several delimited files into a single Excel file, and an interactive full-screen viewer for delimited files. This package is available through the [csvutils](https://github.com/uf-icbr-bioinformatics/csvutils) repository
 
 ---
-## Bioscripts
+## [Bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts)
 This repository contains a collection of stand-alone scripts for various tasks in bioinformatics. They were developed independently for use in various data analysis pipelines. This package is available through the [bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts) repository.
 
-## SOI
+## [SOI](https://github.com/uf-icbr-bioinformatics/soi)
 SOI (Significance Of Intersections) is a command-line program to quickly evaluate whether the intersections among sets (up to four) are significantly high or low. This program is available through the [soi](https://github.com/uf-icbr-bioinformatics/soi) repository.
 
 # Applications
 The following programs are distributed in compiled form only (for GNU/Linux systems). Source code is available upon request.
 
 ## [CSCALL](http://compbio.ufl.edu/resources/software/cscall/)
-CSCALL is a program to detect single-base conversion events in short reads. It is specifically designed to analyze the results of sodium bisulfite sequencing experiments to study genome-wide methylation, and is optimized to work on large genomes and multiple BAM files at once. Moreover, CSCALL can be used to detect conversion events on a number of different contexts (e.g. CG, GC, CHG, CHH, etc). CSCALL is available from [this page](http://compbio.ufl.edu/resources/software/cscall/).
+CSCALL is a complete package for the genome-wide analysis of DNA methylation.  At its core is a module to detect single-base conversion events in short reads, specifically designed to analyze the results of sodium bisulfite sequencing experiments to study genome-wide methylation. CSCALL is optimized to work on large genomes and multiple biological replicates, and is able to detect conversion events on a number of different contexts (e.g. CG, GC, CHG, CHH, etc). CSCALL is available from [this page](http://compbio.ufl.edu/resources/software/cscall/).
