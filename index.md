@@ -29,6 +29,11 @@ This repository contains a collection of stand-alone scripts for various tasks i
 ## [SOI](https://github.com/uf-icbr-bioinformatics/soi)
 SOI (Significance Of Intersections) is a command-line program to quickly evaluate whether the intersections among sets (up to four) are significantly high or low. This program is available through the [soi](https://github.com/uf-icbr-bioinformatics/soi) repository.
 
+# Utilities
+
+## [submit](https://github.com/uf-icbr-bioinformatics/submit)
+submit.py is a command to submit jobs to clusters running slurm or moabs schedulers. It provides a uniform syntax and several user-friendly improvements over the native submission commands.
+
 # Applications
 The following programs are distributed in compiled form only (for GNU/Linux systems). Source code is available upon request.
 
