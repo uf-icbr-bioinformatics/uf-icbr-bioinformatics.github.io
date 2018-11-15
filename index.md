@@ -26,6 +26,11 @@ A collection of utilities for working with delimited files. Includes a program t
 ## [Bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts)
 This repository contains a collection of stand-alone scripts for various tasks in bioinformatics. They were developed independently for use in various data analysis pipelines. This package is available through the [bioscripts](https://github.com/uf-icbr-bioinformatics/bioscripts) repository.
 
+---
+## [FASTAscripts](https://github.com/uf-icbr-bioinformatics/fastascripts)
+This repository contains scripts for dealing with FASTA files and includes information about external scripts for FASTA manipulation in the README to prevent reproduction of similar scripts (ex. picard's ExtractSequences). These scripts were originally made with *de novo* transcriptome assembly quality assessment and editing in mind.
+
+---
 ## [SOI](https://github.com/uf-icbr-bioinformatics/soi)
 SOI (Significance Of Intersections) is a command-line program to quickly evaluate whether the intersections among sets (up to four) are significantly high or low. This program is available through the [soi](https://github.com/uf-icbr-bioinformatics/soi) repository.
 
